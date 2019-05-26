@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/Bootstrap-portfolio-react-router/static/css/main.fcfd6045.chunk.css",
-    "main.js": "/Bootstrap-portfolio-react-router/static/js/main.4ae3d41b.chunk.js",
-    "main.js.map": "/Bootstrap-portfolio-react-router/static/js/main.4ae3d41b.chunk.js.map",
+    "main.css": "/Bootstrap-portfolio-react-router/static/css/main.a906d8ed.chunk.css",
+    "main.js": "/Bootstrap-portfolio-react-router/static/js/main.7923324c.chunk.js",
+    "main.js.map": "/Bootstrap-portfolio-react-router/static/js/main.7923324c.chunk.js.map",
     "runtime~main.js": "/Bootstrap-portfolio-react-router/static/js/runtime~main.9cd0ccbc.js",
     "runtime~main.js.map": "/Bootstrap-portfolio-react-router/static/js/runtime~main.9cd0ccbc.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/Bootstrap-portfolio-react-router/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.baeccd06.chunk.js": "/Bootstrap-portfolio-react-router/static/js/2.baeccd06.chunk.js",
-    "static/js/2.baeccd06.chunk.js.map": "/Bootstrap-portfolio-react-router/static/js/2.baeccd06.chunk.js.map",
+    "static/js/2.30031a74.chunk.js": "/Bootstrap-portfolio-react-router/static/js/2.30031a74.chunk.js",
+    "static/js/2.30031a74.chunk.js.map": "/Bootstrap-portfolio-react-router/static/js/2.30031a74.chunk.js.map",
     "index.html": "/Bootstrap-portfolio-react-router/index.html",
-    "precache-manifest.b8ce3a2ff4a56c6a4f38bbc0b90553c5.js": "/Bootstrap-portfolio-react-router/precache-manifest.b8ce3a2ff4a56c6a4f38bbc0b90553c5.js",
+    "precache-manifest.3435201adf4ee2ea888f6cbe60ff5683.js": "/Bootstrap-portfolio-react-router/precache-manifest.3435201adf4ee2ea888f6cbe60ff5683.js",
     "service-worker.js": "/Bootstrap-portfolio-react-router/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/Bootstrap-portfolio-react-router/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.fcfd6045.chunk.css.map": "/Bootstrap-portfolio-react-router/static/css/main.fcfd6045.chunk.css.map"
+    "static/css/main.a906d8ed.chunk.css.map": "/Bootstrap-portfolio-react-router/static/css/main.a906d8ed.chunk.css.map",
+    "static/media/portrait1.jpg": "/Bootstrap-portfolio-react-router/static/media/portrait1.9f6cdb8a.jpg",
+    "static/media/portrait2.jpg": "/Bootstrap-portfolio-react-router/static/media/portrait2.9a29c431.jpg",
+    "static/media/portrait3.jpg": "/Bootstrap-portfolio-react-router/static/media/portrait3.1f4efb8a.jpg",
+    "static/media/portrait4.jpg": "/Bootstrap-portfolio-react-router/static/media/portrait4.5e56f6df.jpg"
   }
 }
