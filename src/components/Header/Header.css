@@ -1,0 +1,37 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+img.logo {
+  width: 38px;
+  height: auto;
+}
+
+.navbar-brand {
+  width: 50%;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #005caf;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
+
+.bg-minimalist {
+  background-color: #ffffff !important;
+  opacity: 0.9;
+}
+
+.btn-link {
+  color: #005caf;
+}
+.btn-link:hover,
+.btn-link:focus {
+  text-decoration: none;
+}
