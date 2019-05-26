@@ -19,10 +19,7 @@ function App() {
         <Route path="/portfolio" component={Portfolio} />
         <Route path="/team" component={Team} />
         <Route path="/Contact" component={Contact} />
-        {/* <Index /> */}
-        {/* <Team /> */}
-        {/* <Portfolio /> */}
-        {/* <Contact /> */}
+
         <Footer />
       </div>
     </BrowserRouter>

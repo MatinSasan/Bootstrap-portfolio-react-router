@@ -9,7 +9,7 @@ const Index = () => {
           <div className="col-12 col-md-6">
             <img
               className="img-fluid pt-3 pb-3"
-              src="./images/img (4).jpg"
+              src={require('../../assets/images/img (4).jpg')}
               alt="some pic"
             />
             <div className="img-desc">
@@ -21,7 +21,7 @@ const Index = () => {
           <div className="col-12 col-md-6">
             <img
               className="img-fluid pt-3 pb-3"
-              src="./images/img (3).jpg"
+              src={require('../../assets/images/img (3).jpg')}
               alt="some pic"
             />
             <div className="img-desc">
@@ -31,7 +31,7 @@ const Index = () => {
           <div className="col-12">
             <img
               className="img-fluid pt-3 pb-3"
-              src="./images/img (1).jpg"
+              src={require('../../assets/images/img (1).jpg')}
               alt="some pic"
             />
             <div className="img-desc">
@@ -43,7 +43,7 @@ const Index = () => {
           <div className="col-12 col-md-6">
             <img
               className="img-fluid pt-3 pb-3"
-              src="./images/img (2).jpg"
+              src={require('../../assets/images/img (2).jpg')}
               alt="some pic"
             />
             <div className="img-desc">
@@ -53,7 +53,7 @@ const Index = () => {
           <div className="col-12 col-md-6">
             <img
               className="img-fluid pt-3 pb-3"
-              src="./images/img (5).jpg"
+              src={require('../../assets/images/img (5).jpg')}
               alt="some pic"
             />
             <div className="img-desc">

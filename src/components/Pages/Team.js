@@ -32,7 +32,11 @@ const Team = () => {
             </p>
           </div>
           <div className="col-12 col-md-8">
-            <img className="img-fluid" src={`/images/img (6).jpg`} alt="team" />
+            <img
+              className="img-fluid"
+              src={require('../../assets/images/img (6).jpg')}
+              alt="team"
+            />
           </div>
         </div>
         <div className="dflex p-5">
