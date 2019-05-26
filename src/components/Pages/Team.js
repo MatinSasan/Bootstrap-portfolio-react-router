@@ -32,11 +32,7 @@ const Team = () => {
             </p>
           </div>
           <div className="col-12 col-md-8">
-            <img
-              className="img-fluid"
-              src="%PUBLIC_URL%/images/img (6).jpg"
-              alt="team"
-            />
+            <img className="img-fluid" src={`/images/img (6).jpg`} alt="team" />
           </div>
         </div>
         <div className="dflex p-5">
@@ -45,28 +41,28 @@ const Team = () => {
         <div className="d-flex flex-row justify-content-center">
           <div className="p-2">
             <img
-              src="%PUBLIC_URL%/images/portrait1.jpg"
+              src={require('../../assets/images/portrait1.jpg')}
               className="img-thumbnail rounded-circle"
               alt="portrait"
             />
           </div>
           <div className="p-2">
             <img
-              src="%PUBLIC_URL%/images/portrait2.jpg"
+              src={require('../../assets/images/portrait2.jpg')}
               className="img-thumbnail rounded-circle"
               alt="portrait"
             />
           </div>
           <div className="p-2">
             <img
-              src="%PUBLIC_URL%/images/portrait3.jpg"
+              src={require('../../assets/images/portrait3.jpg')}
               className="img-thumbnail rounded-circle"
               alt="portrait"
             />
           </div>
           <div className="p-2">
             <img
-              src="%PUBLIC_URL%/images/portrait4.jpg"
+              src={require('../../assets/images/portrait4.jpg')}
               className="img-thumbnail rounded-circle"
               alt="portrait"
             />
