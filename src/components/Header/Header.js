@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { DropdownButton, Dropdown } from 'react-bootstrap';
 import './Header.css';
+import logo from './logo.png';
 
 const Header = () => {
   const [state, setState] = useState({
@@ -19,7 +20,7 @@ const Header = () => {
       <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-minimalist">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            <img className="logo" src="/images/logo.png" alt="logo" />
+            <img className="logo" src={logo} alt="logo" />
           </Link>
           <button
             className="navbar-toggler"
