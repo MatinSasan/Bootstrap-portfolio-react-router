@@ -1,5 +1,12 @@
-footer {
+.otherPages {
   color: #005caf;
   font-size: 0.8rem;
   border-top: 1px solid #005caf;
+}
+
+.teamPage {
+  color: white;
+  font-size: 0.8rem;
+  border-top: 1px solid white;
+  background: #81c7df;
 }
